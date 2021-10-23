@@ -4,9 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int toothCounter = 32;
-
-        //напишите тут ваш код
-
+        toothCounter -= 9;
 
         System.out.println(toothCounter);
     }
